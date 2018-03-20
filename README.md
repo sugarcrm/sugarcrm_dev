@@ -1,5 +1,3 @@
-# sugarcrm_dev
-
 Notice: Sunset and Removal of Sugar Community Edition Project
 
 As you may be aware, the development of Community Edition by SugarCRM was last tied to the 6.x family of the Sugar code base.
