@@ -1,4 +1,4 @@
-Notice: Sunset and Removal of Sugar Community Edition Project
+<b>Notice: Sunset and Removal of Sugar Community Edition Project</b>
 
 As you may be aware, the development of Community Edition by SugarCRM was last tied to the 6.x family of the Sugar code base.
 SugarCRM previously announced end of life for Sugar 6.x in 2017. 
